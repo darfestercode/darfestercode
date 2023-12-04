@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @darfestercode
+- 👀 I’m interested in Gamin
+- 🌱 I’m currently learning front end webdevelopment
+- 📫 How to reach me darfesercoding@gmaill.com
